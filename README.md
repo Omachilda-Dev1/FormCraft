@@ -2,6 +2,10 @@
 
 FormCraft is a professional, browser-based form builder that lets developers and designers visually construct forms without writing a single line of code. Drag fields onto a live canvas, configure validation rules and conditional logic per field, preview the form in real time, and export a standards-compliant JSON Schema (draft-07) ready to plug into any backend or validation library. Built entirely client-side with React, @dnd-kit, Zustand, and Tailwind CSS — no server, no database, no setup beyond `npm install`.
 
+## Preview
+
+![FormCraft Screenshot](src/screenshots/formcraft.PNG)
+
 ## Features
 
 - 20 field types across 4 categories (Text, Numbers & Dates, Choice, Media & Layout)
